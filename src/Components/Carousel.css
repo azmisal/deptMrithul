@@ -1,0 +1,15 @@
+.carouselImg{
+    width: 90%;
+    height: 280px;
+    border-radius: 30px;
+   
+}
+.carousel-indicators{
+    display: none !important;
+}
+.carousel-control-prev {
+    left: -64px !important;
+}
+.carousel-control-next {
+    right: -64px !important;
+}
