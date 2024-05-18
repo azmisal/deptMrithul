@@ -8,10 +8,10 @@
 }
 
 .innerBar{
-    margin-top: 20px;
+    margin-top: 35px;
     margin-bottom: 30px;
-    width: 70%;
-    height: 45px;
+    width: 72%;
+    height: 50px;
     background-color: rgba(16, 58, 57, 0.5);
     border-radius: 30px;
     display: flex;
@@ -44,5 +44,5 @@
     color: #C8D6D5;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 10px;
 }

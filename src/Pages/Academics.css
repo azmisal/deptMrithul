@@ -1,0 +1,56 @@
+.Academics{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.shortHeads{
+    width: 80%;
+    /* background-color: red; */
+}
+
+.shortHeads h1{
+    color: rgba(231, 231, 231, .8);
+    font-size: 30px;
+    line-height: 45px;
+
+}
+.eligibility{
+    color: rgba(231, 231, 231, .8);
+
+}
+
+.eligibility h2{
+    font-size: 22px;
+
+}
+.eligibility p{
+    font-size: 15.5px;
+    font-weight: 400;
+    line-height: 20px;
+    font-family: "IBM Plex Sans", sans-serif;
+    text-align: center;
+    width: 98%;
+   color: rgba(231, 231, 231, .8);
+}
+
+.eligibility p,.eligibility h2{
+    margin-top: 25px;
+}
+
+.brochure{
+    border: none;
+    font-size: 20px;
+    padding: 14px 16px;
+   font-weight: 500;
+    border-radius: 10px;
+    /* height: 50px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    background-color: #206560;
+}

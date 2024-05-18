@@ -13,6 +13,7 @@ const Navbar = () => {
                     <a href="#" className='link'>ABOUT</a>
                     <a href="#" className='link'>ACADEMICS</a>
                     <a href="#" className='link'>PEOPLE</a>
+                    <a href="#" className='link'>STUDENTS</a>
                     <a href="#" className='link'>RESEARCH</a>
                     <a href="#" className='link'>GALLERY</a>
 
